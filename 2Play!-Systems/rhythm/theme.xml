@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Rhythm game or rhythm action is a genre of music-themed action video game that challenges a player's sense of rhythm. Games in the genre typically focus on dance or the simulated performance of musical instruments, and require players to press buttons in a sequence dictated on the screen.</text>
+  </text>
+ </view>
+</theme>

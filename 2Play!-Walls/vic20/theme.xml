@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1980  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The VIC-20(DE), VIC-1001(JP) by Commodore Business Machines is the first computer of any description to sell 1 mil. units. CPU MOS Tech 6502 @1.108404MHz (PAL) @1.02MHz (NTSC) MEM 20KB ROM + 5KB RAM (expand. to 32KB), 3.5KB for BASIC (expand to 27.5KB). Release date '80.</text>
+  </text>
+ </view>
+</theme>

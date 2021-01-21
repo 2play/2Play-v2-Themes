@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1997 - MAME LIBRETRO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lbretro Cores of M.A.M.E. Multiple Arcade Machine Emulator is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Release date 05 Feb '97.</text>
+  </text>
+ </view>
+</theme>

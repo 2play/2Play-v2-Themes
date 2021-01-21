@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The X1, sometimes called the Sharp X1, is a series of home computers by Sharp Corporation. CPU	Sharp Z80 A, RAM 64KB, VRAM 4-48KB, ROM 6KB, 320x200/640x200 Sound GI AY-3-8910 or Yamaha YM2149. Release date '82.</text>
+  </text>
+ </view>
+</theme>

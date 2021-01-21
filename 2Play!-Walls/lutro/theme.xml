@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2016  ·  2D GAME ENGINE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lutro (Lua Engine) is an in-development Love 2D reimplementation written in Lua and implemented as a libretro core. It is possible to easily create Lua games with no knowledge of C being necessary, or having to compile any code.</text>
+  </text>
+ </view>
+</theme>

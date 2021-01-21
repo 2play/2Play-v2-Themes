@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2010  ·  CONSOLE ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to SNES games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB of storage.</text>
+  </text>
+ </view>
+</theme>

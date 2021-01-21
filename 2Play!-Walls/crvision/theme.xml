@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-BIT COMPUTER & CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech. CPU Rockwell 6502 @2MHz. Release date	'82.</text>
+  </text>
+ </view>
+</theme>

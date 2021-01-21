@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland by Timex Corporation. CPU Z80 @3.25MHz RAM 1KB (64KB max.). Release date UK: 5 Mar '81.</text>
+  </text>
+ </view>
+</theme>

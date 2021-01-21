@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Spectrum was among the first mainstream-audience home computers in the UK. CPU Z80 @3.5 MHz Memory 16-128KB, OS Sinclair BASIC. Release date UK: 23 Apr '82.</text>
+  </text>
+ </view>
+</theme>

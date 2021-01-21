@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>After 1986, Microsoft stopped supporting the MSX standard. The first MSX2+ computers, the Panasonic FS-A1WX, Panasonic FS-A1FX and Sony HB-F1XDJ. Release date Oct. 21, '88.</text>
+  </text>
+ </view>
+</theme>

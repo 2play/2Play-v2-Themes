@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1995  ·  CONSOLE ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Satellaview is a satellite modem peripheral for Nintendo's Super Famicom system and came bundled with the BS-X Game Pak and an 8M Memory Pak. Release date JP: '95.</text>
+  </text>
+ </view>
+</theme>

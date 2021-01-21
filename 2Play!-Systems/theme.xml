@@ -1,0 +1,220 @@
+<!--
+theme name:     	2Play-Systems
+Editor-author:		2Play!
+
+font: Roboto-Medium.ttf
+
+
+# Credits:
+original author:	Nico La Rosa - Chicuelo
+Some controllers used on this theme are created by great artists who kindly agreed to include his art on the theme, here you can find their artwork:
+
+Ricky Romero - https://dribbble.com/RickyRomero
+David McLeod - https://dribbble.com/Mucx
+Craig Erskine - https://dribbble.com/craigerskine
+Memory Noise - https://dribbble.com/memorynoise
+
+-->
+
+<theme>
+<formatVersion>4</formatVersion>
+ 
+
+<!-- System View -->
+
+<feature supported="carousel">
+<view name="system">
+ <image name="background" extra="true">
+	<tile>false</tile>
+	<path>./_2playart/system-global-bg.jpg</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+ </image>
+ 
+ <text name="shortdescription" extra="true">
+	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<forceUppercase>1</forceUppercase>
+	<fontSize>0.03</fontSize>
+	<color>818181</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.232 0.25</pos>
+	<size>0.32 0.1</size>
+ </text>
+
+ <image name="logo">
+	<path>./_2playart/logos/${system.theme}.png</path>
+ </image>
+
+ <carousel name="systemcarousel">
+	<type>horizontal</type>
+	<color>00000000</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.232 0.415</pos>
+	<size>1 .4</size> 
+	<logoScale>0.7</logoScale>
+	<logoSize>0.3 0.2</logoSize>
+	<maxLogoCount>1</maxLogoCount>
+ </carousel>
+
+ <text name="systemInfo">
+	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<backgroundColor>00000000</backgroundColor>
+	<color>4f5159</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.232 0.77</pos>
+	<size>0.980 0.050</size>
+	<fontSize>0.025</fontSize>
+ </text>
+ 
+ <text name="longdescription" extra="true">
+	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<forceUppercase>0</forceUppercase>
+	<fontSize>0.02</fontSize>
+	<color>818181</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.232 0.58</pos>
+	<size>0.30 0.25</size>
+ </text>
+ 
+ <image name="system" extra="true">
+	<path>./_2playart/systems/${system.theme}.jpg</path>
+	<tile>false</tile>
+	<origin>0.5 0.5</origin>
+	<pos>0.678 0.5</pos>
+	<size>0.535 0.85</size>
+  </image>
+ 
+ <image name="controller" extra="true">
+	<path>./_2playart/controllers/${system.theme}.png</path>
+	<tile>false</tile>
+	<origin>1 1</origin>
+	<pos>0.9785 0.975</pos>
+	<size>0.275 0.4</size>
+  </image>
+
+ <helpsystem name="help">
+    <fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+    <fontSize>0.019</fontSize>
+	<pos>0.05 0.97</pos>
+	<textColor>23232f</textColor>
+    <iconColor>23232f</iconColor>
+ </helpsystem>
+  
+</view>
+</feature>
+
+
+
+
+
+<!-- Gamelist View -->
+
+<view name="basic, detailed, video, grid">
+
+ <image name="background" extra="true">
+	<tile>false</tile>
+	<path>./_2playart/ingame-global-bg.jpg</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+ </image>
+
+ <image name="logo2" extra="true">
+	<path>./_2playart/logos/${system.theme}.png</path>
+	<origin>0.5 0.5</origin>
+	<pos>0.520 0.870</pos>
+	<maxSize>0.15 0.16</maxSize>
+ </image>
+
+ <text name="shortdescription" extra="true">
+	<color>ffffff</color>
+	<fontSize>0.02</fontSize>
+	<pos>0.800 0.100</pos>
+ </text>
+ 
+ <text name="longdescription" extra="true">
+	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+	<forceUppercase>0</forceUppercase>
+	<fontSize>0.017</fontSize>
+	<color>818181</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.770 0.870</pos>
+	<size>0.34 0.20</size>
+ </text>
+ 
+<textlist name="gamelist">
+	<selectorColor>ffffff</selectorColor>
+	<selectorImagePath>./_2playart/icon.png</selectorImagePath>
+	<selectedColor>78c7ef</selectedColor>
+	<selectorHeight>.05</selectorHeight>
+	<primaryColor>dee0e8</primaryColor>
+	<secondaryColor>eac428</secondaryColor>
+	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+	<alignment>left</alignment>
+	<forceUppercase>1</forceUppercase>
+	<pos>0.07 0.0925</pos>
+	<size>0.323 0.3703</size>
+	<fontSize>0.0275</fontSize>
+	<lineSpacing>1.33</lineSpacing>
+	<horizontalMargin>0.05</horizontalMargin>
+</textlist>
+
+<helpsystem name="help">
+    <fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
+    <fontSize>0.020</fontSize>
+	<pos>0.48 0.96</pos>
+	<textColor>23232f</textColor>
+    <iconColor>23232f</iconColor>
+</helpsystem>
+
+<!-- Hide Unused Elements -->	
+<text name="md_description, md_lbl_players, md_players, md_lbl_developer, md_developer, md_lbl_publisher, md_publsher, md_lbl_genre, md_genre, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_releasedate, md_lbl_rating">
+	<pos>1 1</pos>
+</text>
+<datetime name="md_lastplayed, md_releasedate">
+	<pos>1 1</pos>
+</datetime>
+<rating name="md_rating">
+	<pos>1 1</pos>
+</rating>
+
+	<text name="md_description">
+		<color>ffffff</color>
+		<alignment>center</alignment>
+		<forceUppercase>1</forceUppercase>
+		<fontSize>0.02</fontSize>
+		<size>0.38 0.09</size>
+		<pos>0.500 0.690</pos>
+	</text>
+
+</view>
+
+<view name="basic, detailed, grid">
+
+<image name="md_image">
+	<origin>0.5 0.5</origin>
+	<pos>0.6925 0.3915</pos>
+	<maxSize>0.4292 0.4797</maxSize>
+ </image>
+</view>
+
+<feature supported="video">
+
+<view name="video">
+	<video name="md_video">
+		<origin>0.5 0.5</origin>
+		<pos>0.6925 0.3915</pos>
+		<maxSize>0.4292 0.4797</maxSize>
+		<showSnapshotNoVideo>true</showSnapshotNoVideo>
+		</video>
+	<image name="md_image">
+		<origin>0.5 0.5</origin>
+		<pos>0.2671 0.7268</pos>
+		<maxSize>0.2812 0.3888</maxSize>
+	</image>
+</view>
+</feature>
+
+</theme>

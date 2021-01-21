@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1979  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari 8-bit home computer. CPU MOS Technology 6502B @1.79MHz (NTSC)@1.77MHz (PAL), Release date Nov '79.</text>
+  </text>
+ </view>
+</theme>

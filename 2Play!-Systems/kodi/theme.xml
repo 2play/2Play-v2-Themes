@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2002  ·  MEDIA PLAYER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>PlayBox Theme (Full Version). Kodi is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs. Initial release 2002 (Xbox Media Player).</text>
+  </text>
+ </view>
+</theme>

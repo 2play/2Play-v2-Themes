@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>MSX-2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers. Release date '85.</text>
+  </text>
+ </view>
+</theme>

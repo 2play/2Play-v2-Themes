@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  16-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari ST is the successor to the Atari 8-bit family. CPU Motorola 680x0 @8MHz+ Memory 512KiBs (512×210 bytes) to 4MiB (4×220 bytes). Release date Jun '85.</text>
+  </text>
+ </view>
+</theme>

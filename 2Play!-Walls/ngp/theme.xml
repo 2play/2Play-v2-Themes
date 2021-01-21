@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1998  ·  16-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Monochrome handheld game console released by SNK. Is part of the Neo Geo family. CPU Toshiba TLCS900H. Release date JP: 28 Oct '98.</text>
+  </text>
+ </view>
+</theme>

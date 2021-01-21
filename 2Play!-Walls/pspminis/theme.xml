@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2009  ·  32-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The PSP Go (PSP-N1000). Discontinued so Sony could concentrate on the PlayStation Vita. CPU 333MHz MIPS R4000, Storage 16GB, Display 480×272, 16mil  colors, 3.8" LCD, stereo, WiFi/BT. Release date NA-EU: 01 Oct '09 JP: 01 Nov '09.</text>
+  </text>
+ </view>
+</theme>

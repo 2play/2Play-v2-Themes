@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The best selling gaming console of its time. CPU Ricoh 2A03 8-bit processor (MOS Technology 6502 core). Release date JP: 15 Jul '83 NA: 18 Oct '85 EU: 01 Sep '86 AU: '87.</text>
+  </text>
+ </view>
+</theme>

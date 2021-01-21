@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2006  ·  2D GAME ENGINE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Solarus is a game engine for Zeldaesque games. A lightweight, free and open-source game engine for Action-RPGs.</text>
+  </text>
+ </view>
+</theme>

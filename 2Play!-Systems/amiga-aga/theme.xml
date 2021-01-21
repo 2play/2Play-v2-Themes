@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  32-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Amiga 4000 introduced the Advanced Graphics Architecture (AGA) chipset with enhanced graphics. CPU Motorola 68040 @25MHz, 2-18MB RAM, Amiga OS, 16.8M colors, 4×8-bit PCM channels. 1.76MB HD fdd & 120MB 3.5" IDE HD. Release date '92.</text>
+  </text>
+ </view>
+</theme>

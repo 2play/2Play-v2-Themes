@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1986  ·  8-BIT CONSOLE ADDON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The FM Disk System is a peripheral for Nintendo's Family Computer home video game console. CPU Ricoh 2A03, Media Floppy disks, Release date JP: 21 Feb '86.</text>
+  </text>
+ </view>
+</theme>
