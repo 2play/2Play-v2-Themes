@@ -263,7 +263,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>   
         
     <text name="btn_x" extra="true">
-        <text>Favorite</text>
+        <text>Random</text>
         <pos>0.259 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
