@@ -4,13 +4,13 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>PlayBox</text>
+    <text>Kodi PlayBox Edition</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>PlayBox</text>
+    <text>Kodi</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.130</pos>
