@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Coleco Vision</text>
+    <text>Coleco Adam</text>
   </text>
 </view>    
 
