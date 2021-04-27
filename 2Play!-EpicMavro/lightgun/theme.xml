@@ -13,7 +13,7 @@
     <text>Lightgun</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.05 0.130</pos>
+    <pos>0.025 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
