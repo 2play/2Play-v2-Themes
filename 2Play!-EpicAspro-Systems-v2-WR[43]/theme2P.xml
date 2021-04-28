@@ -26,7 +26,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
       
     <image name="poster" extra="true">
-        <path>./_2playart/posters/${system.theme}.jpg</path>
+        <path>./_2playart/systems/${system.theme}.jpg</path>
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
