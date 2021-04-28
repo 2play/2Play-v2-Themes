@@ -26,13 +26,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
       
     <image name="poster" extra="true">
-        <path>./_2playart/systems/${system.theme}.jpg</path>
+        <path>./_2playart/posters/${system.theme}.jpg</path>
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
         <size>0.75 1</size>
     </image>
-<!--    
+<!--
     <image name="indicator_bg" extra="true">
         <tile>false</tile>
         <path>./_2playart/indicators/left-ray.svg</path>
@@ -51,7 +51,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
     <carousel name="systemcarousel">
         <type>horizontal</type>
-        <color>00000000</color>
+        <color>FFFFFFFF</color>
         <origin>1 1</origin>
         <pos>1 1</pos>
         <size>0.01 0.01</size>
@@ -64,14 +64,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_2playart/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>FFFFFF</color>
+        <color>000000</color>
     </text>
     
     <text name="sys_line2" extra="true">
         <fontPath>./_2playart/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>FFFFFF</color>
+        <color>000000</color>
     </text>
 
     <text name="shortdescription" extra="true">
@@ -88,7 +88,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="systemInfo">
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
-        <backgroundColor>00000000</backgroundColor>
+        <backgroundColor>FFFFFFFF</backgroundColor>
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
@@ -110,7 +110,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <image name="buttonA" extra="true">
-		<path>./_2playart/var/button.svg</path>
+		<path>./_2playart/var/button.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
         <pos>0.025 0.615</pos>
@@ -122,8 +122,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.02</fontSize>
         <origin>1 1</origin><!--0 0-->
         <pos>0 0</pos> <!--0.0890 0.6283-->
-        <textColor>F8F8F8</textColor>
-        <iconColor>F8F8F8</iconColor>
+        <textColor>090909</textColor>
+        <iconColor>090909</iconColor>
     </helpsystem>
 
     <image name="controller" extra="true">
@@ -145,8 +145,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <textlist name="gamelist">
-        <selectorColor>1c1c1c</selectorColor>
-        <selectedColor>F8F8F8</selectedColor>
+        <selectorColor>d2d2d2</selectorColor>
+        <selectedColor>090909</selectedColor>
         <selectorHeight>0.0315</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
@@ -163,18 +163,18 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_2playart/Acre.otf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
-        <color>F8F8F8</color>
+        <color>2b2b2b</color>
         <fontSize>0.034</fontSize>
         <origin>0 0</origin>
         <pos>0.029 0</pos>
         <size>0.20 0.08</size>
     </text>
-    
     <text name="nameLabel" extra="true">
+    
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>ffffff</color>
+        <color>2b2b2b</color>
         <fontSize>0.031</fontSize>
         <origin>0 0</origin>
         <pos>0.429 0</pos>
@@ -194,7 +194,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     
 <!-- Define metadata -->
     <text name="md_lbl_rating, md_lbl_genre, md_lbl_players">
-        <color>F8F8F8</color>
+        <color>090909</color>
         <forceUppercase>0</forceUppercase>
         <fontPath>./_2playart/Acre.otf</fontPath>
         <fontSize>0.0186</fontSize>
@@ -269,7 +269,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>   
 
     <text name="players_lbl_2" extra="true">
-        <text>players</text>
+        <text>player(s)</text>
         <pos>0.689 0.917</pos>
         <size>0.06 0.07</size>
     </text>       
@@ -279,7 +279,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.0186</fontSize>
-        <color>ffffff</color>
+        <color>2b2b2b</color>
         <origin>0 0</origin>
         <pos>0.409 0.720</pos>
         <size>0.06 0.07</size>
@@ -289,18 +289,18 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="shortdescription, longdescription" extra="true">
         <origin>1 1</origin>
         <pos>0 0</pos>
-        <color>00000000</color>
+        <color>FFFFFFFF</color>
     </text>
         
     <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_publisher, md_publsher">
         <origin>1 1</origin>
-        <color>00000000</color>
+        <color>FFFFFFFF</color>
         <pos>0 0</pos>
     </text>
 
     <datetime name="md_releasedate, md_lastplayed">
         <origin>1 1</origin>
-        <color>00000000</color>
+        <color>FFFFFFFF</color>
         <pos>0 0</pos>
         </datetime>
         
@@ -334,7 +334,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 			<pos>0.1328 0.7148</pos>
 			<maxSize>0.2812 0.3888</maxSize>
 		</image>
-    </view>
+	</view>
 </feature>
 
 </theme>

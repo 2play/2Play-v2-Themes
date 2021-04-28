@@ -1,5 +1,5 @@
 <!--
-Theme name:  Epic Noir
+Theme name:  Epic Noir 4:3 ratio version
 Artwork by:  Nico La Rosa (Chicuelo) 
 Coding by:   Nick L (c64-dev)
 Website:     www.chicuelo.com.ar
@@ -30,7 +30,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
-        <size>0 1</size>
+        <size>0.75 1</size>
     </image>
 <!--
     <image name="indicator_bg" extra="true">
@@ -81,7 +81,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.021</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.05 0.1055</pos>
+        <pos>0.025 0.1055</pos>
         <size>0.320 0.033</size>
     </text>
 
@@ -92,20 +92,20 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.05 0.3611</pos>
+        <pos>0.025 0.3311</pos>
         <size>0.200 0.039</size>
-        <fontSize>0.0315</fontSize>
+        <fontSize>0.02</fontSize>
     </text>
     
     <text name="longdescription" extra="true">
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
+        <fontSize>0.020</fontSize>
         <color>8F8F8F</color>
  	<lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.05 0.360</pos>
+        <pos>0.025 0.360</pos>
         <size>0.28 0.25</size>
     </text>
 
@@ -113,8 +113,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<path>./_2playart/var/button.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.05 0.6</pos>
-        <size>0 0.044</size>
+        <pos>0.025 0.615</pos>
+        <size>0 0.03</size>
     </image>
 
     <helpsystem name="help">
@@ -130,8 +130,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <path>./_2playart/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.05 0.61</pos>
-        <maxSize>0.32 0.32</maxSize>
+        <pos>0.025 0.61</pos>
+        <maxSize>0.25 0.25</maxSize>
     </image>
 </view>
 
@@ -147,15 +147,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <textlist name="gamelist">
         <selectorColor>d2d2d2</selectorColor>
         <selectedColor>090909</selectedColor>
-        <selectorHeight>0.0425</selectorHeight>
+        <selectorHeight>0.0315</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.3888</size>
-        <fontSize>0.0275</fontSize>
-        <lineSpacing>1.33</lineSpacing>
+        <fontSize>0.02</fontSize>
+        <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
     
@@ -188,8 +188,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <lineSpacing>1</lineSpacing>
-	    <pos>0.409 0.775</pos>
-	    <size>0.505 0.140</size>
+	    <pos>0.409 0.787</pos>
+	    <size>0.505 0.135</size>
     </text>
     
 <!-- Define metadata -->
@@ -252,19 +252,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="btn_a" extra="true">
         <text>Select</text>
-        <pos>0.042 0.933</pos>
+        <pos>0.042 0.917</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_b" extra="true">
         <text>Back</text>
-        <pos>0.155 0.933</pos>
+        <pos>0.155 0.917</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_x" extra="true">
         <text>Random</text>
-        <pos>0.259 0.933</pos>
+        <pos>0.259 0.917</pos>
         <size>0.06 0.07</size>
     </text>   
 

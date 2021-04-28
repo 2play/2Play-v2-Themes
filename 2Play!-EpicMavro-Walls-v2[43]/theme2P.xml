@@ -269,7 +269,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>   
 
     <text name="players_lbl_2" extra="true">
-        <text>players</text>
+        <text>player(s)</text>
         <pos>0.689 0.917</pos>
         <size>0.06 0.07</size>
     </text>       
