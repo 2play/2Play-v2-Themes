@@ -101,7 +101,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
+        <fontSize>0.020</fontSize>
         <color>8F8F8F</color>
  	<lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
