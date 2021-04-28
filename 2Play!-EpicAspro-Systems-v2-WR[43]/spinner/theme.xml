@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Spinner</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Spinner</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.130</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  ARCADE CONTROLLER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A spinner was used in arcade cabinets such as Tempest and Arkanoid.</text>
+  </text>
+ </view>
+</theme>
