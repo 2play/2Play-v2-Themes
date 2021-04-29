@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Created to compete with the N64 and the Sega Saturn. CPU R3000 @33.8688MHz, 2MB RAM, 1MB VRAM, Sound 16-bit, 24 ch ADPCM. Release date JP: 03 Dec '94 NA: 09 Sep '95 EU: 29 Sep '95 AU: 15 Nov '95.</text>
+  </text>
+ </view>
+</theme>

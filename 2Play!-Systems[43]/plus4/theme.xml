@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore Plus/4 is a home computer released by Commodore International. MOS Technology 7501/8501 @1.76MHz RAM	64KB ROM 64KB Gfx TED (320×200, 121 colors) Sound TED (2ch 4-oct). Release date '84.</text>
+  </text>
+ </view>
+</theme>

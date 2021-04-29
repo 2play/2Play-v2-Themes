@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CPU 32-bit RISC CPU ARM60 based on ARM architecture @12.5MHz, Memory 2MB RAM, 1MB VRAM, Storage 32KB SRAM, Media CD-ROM. Release date NA: 04 Oct '93 JP: 20 Mar '94 EU: 04 Sep '94.</text>
+  </text>
+ </view>
+</theme>

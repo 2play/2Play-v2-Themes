@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  16-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Released by Texas Instruments, the TI-99/4 series holds the distinction of being the first 16-bit personal computer. CPU TI TMS9900 @3.0MHz, 256b RAM + 16KB VDP (graph RAM) Graph TMS9918A. Release date Jun, '81.</text>
+  </text>
+ </view>
+</theme>

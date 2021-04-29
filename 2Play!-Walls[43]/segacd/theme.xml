@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  CONSOLE ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CD-ROM add-on to the Genesis, with many FMV games (Night Trap), which led to the creation of the ESRB. CPU Motorola 68000 @12.5MHz. Release date JP: 12 Dec '91 NA: 15 Oct '92 UK: 02 Apr '93 EU: '93.</text>
+  </text>
+ </view>
+</theme>

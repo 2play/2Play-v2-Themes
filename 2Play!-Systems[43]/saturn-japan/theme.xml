@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the successful Sega Genesis. CPU 2× Hitachi SH-2 @28.6MHz Graph VDP1/VDP2, Sound	Yamaha YMF292. Release date JP: 22 Nov '94 NA: 11 May '95 EU: 18 Jul '95.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2004  ·  32-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The NDS is a dual-screen handheld game console. CPU 2x ARM, 4MB RAM, 256KB Fl-RAM, 2x TFT LCD, 256×192. Release date NA: 21 Nov '04 JP: 02 Dec '04 AU: 24 Feb '05 EU: 11 Mar '05.</text>
+  </text>
+ </view>
+</theme>

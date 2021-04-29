@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2013  ·  MAME4ALL - M.A.M.E. PORT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>This is a MAME Raspberry Pi port based on Franxis MAME4ALL which is itself based on the MAME 0.37b5 emulator by Nicola Salmoria. Multiple Arcade Machine Emulator is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.</text>
+  </text>
+ </view>
+</theme>

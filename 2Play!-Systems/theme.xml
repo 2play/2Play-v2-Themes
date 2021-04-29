@@ -1,5 +1,5 @@
 <!--
-theme name:     	2Play-Systems
+theme name:     	2Play!-Systems
 Editor-author:		2Play!
 
 font: Roboto-Medium.ttf
@@ -35,11 +35,11 @@ Memory Noise - https://dribbble.com/memorynoise
 	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
 	<alignment>center</alignment>
 	<forceUppercase>1</forceUppercase>
-	<fontSize>0.03</fontSize>
+	<fontSize>0.021</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.232 0.25</pos>
-	<size>0.32 0.1</size>
+	<pos>0.16 0.25</pos>
+	<size>0.32 0.033</size>
  </text>
 
  <image name="logo">
@@ -50,7 +50,7 @@ Memory Noise - https://dribbble.com/memorynoise
 	<type>horizontal</type>
 	<color>00000000</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.232 0.415</pos>
+	<pos>0.16 0.415</pos>
 	<size>1 .4</size> 
 	<logoScale>0.7</logoScale>
 	<logoSize>0.3 0.2</logoSize>
@@ -63,7 +63,7 @@ Memory Noise - https://dribbble.com/memorynoise
 	<backgroundColor>00000000</backgroundColor>
 	<color>4f5159</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.232 0.77</pos>
+	<pos>0.16 0.77</pos>
 	<size>0.980 0.050</size>
 	<fontSize>0.025</fontSize>
  </text>
@@ -72,19 +72,20 @@ Memory Noise - https://dribbble.com/memorynoise
 	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
 	<alignment>center</alignment>
 	<forceUppercase>0</forceUppercase>
-	<fontSize>0.02</fontSize>
+	<fontSize>0.018</fontSize>
+	<lineSpacing>1.10</lineSpacing>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.232 0.58</pos>
-	<size>0.30 0.25</size>
+	<pos>0.16 0.58</pos>
+	<size>0.275 0.25</size>
  </text>
  
  <image name="system" extra="true">
 	<path>./_2playart/systems/${system.theme}.jpg</path>
 	<tile>false</tile>
 	<origin>0.5 0.5</origin>
-	<pos>0.678 0.5</pos>
-	<size>0.535 0.85</size>
+	<pos>0.65 0.50</pos>
+	<size>0.625 0.85</size>
   </image>
  
  <image name="controller" extra="true">
@@ -97,10 +98,10 @@ Memory Noise - https://dribbble.com/memorynoise
 
  <helpsystem name="help">
     <fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
-    <fontSize>0.019</fontSize>
-	<pos>0.025 0.97</pos>
-	<textColor>23232f</textColor>
-    <iconColor>23232f</iconColor>
+    <fontSize>0.015</fontSize>
+	<pos>0.018 0.90</pos>
+	<textColor>bccee0</textColor>
+    <iconColor>bccee0</iconColor>
  </helpsystem>
   
 </view>
@@ -131,16 +132,16 @@ Memory Noise - https://dribbble.com/memorynoise
  <text name="shortdescription" extra="true">
 	<color>ffffff</color>
 	<fontSize>0.02</fontSize>
-	<pos>0.800 0.100</pos>
+	<pos>0.780 0.100</pos>
  </text>
  
  <text name="longdescription" extra="true">
 	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
 	<forceUppercase>0</forceUppercase>
-	<fontSize>0.017</fontSize>
-	<color>818181</color>
+	<fontSize>0.0125</fontSize>
+	<color>afafaf</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.770 0.870</pos>
+	<pos>0.770 0.875</pos>
 	<size>0.34 0.20</size>
  </text>
  
@@ -148,25 +149,25 @@ Memory Noise - https://dribbble.com/memorynoise
 	<selectorColor>ffffff</selectorColor>
 	<selectorImagePath>./_2playart/icon.png</selectorImagePath>
 	<selectedColor>78c7ef</selectedColor>
-	<selectorHeight>.05</selectorHeight>
+	<selectorHeight>.031</selectorHeight>
 	<primaryColor>dee0e8</primaryColor>
 	<secondaryColor>eac428</secondaryColor>
 	<fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
 	<alignment>left</alignment>
-	<forceUppercase>1</forceUppercase>
-	<pos>0.07 0.0925</pos>
-	<size>0.323 0.3703</size>
-	<fontSize>0.0275</fontSize>
-	<lineSpacing>1.33</lineSpacing>
+<!--<forceUppercase>0</forceUppercase>-->
+	<pos>0.07 0.080</pos>
+	<size>0.4 0.4</size>
+	<fontSize>0.02</fontSize>
+	<lineSpacing>1.5</lineSpacing>
 	<horizontalMargin>0.05</horizontalMargin>
 </textlist>
 
 <helpsystem name="help">
     <fontPath>./_2playart/Roboto-Medium.ttf</fontPath>
-    <fontSize>0.020</fontSize>
-	<pos>0.48 0.96</pos>
-	<textColor>23232f</textColor>
-    <iconColor>23232f</iconColor>
+    <fontSize>0.015</fontSize>
+	<pos>0.445 0.95</pos>
+	<textColor>bccee0</textColor>
+    <iconColor>bccee0</iconColor>
 </helpsystem>
 
 <!-- Hide Unused Elements -->	
@@ -184,9 +185,9 @@ Memory Noise - https://dribbble.com/memorynoise
 		<color>ffffff</color>
 		<alignment>center</alignment>
 		<forceUppercase>1</forceUppercase>
-		<fontSize>0.02</fontSize>
-		<size>0.38 0.09</size>
-		<pos>0.500 0.690</pos>
+		<fontSize>0.018</fontSize>
+		<size>0.37 0.11</size>
+		<pos>0.505 0.680</pos>
 	</text>
 
 </view>
@@ -208,10 +209,10 @@ Memory Noise - https://dribbble.com/memorynoise
 		<pos>0.6925 0.3915</pos>
 		<maxSize>0.4292 0.4797</maxSize>
 		<showSnapshotNoVideo>true</showSnapshotNoVideo>
-		</video>
+	</video>
 	<image name="md_image">
 		<origin>0.5 0.5</origin>
-		<pos>0.2671 0.7268</pos>
+		<pos>0.2671 0.73</pos>
 		<maxSize>0.2812 0.3888</maxSize>
 	</image>
 </view>

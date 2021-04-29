@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2003  · CROSS PLATFORM SOFTWARE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>ResidualVM (ex. Residual) is a cross-platform computer program comprising 3D game engine recreations with a common graphical user interface. Play Grim Fandango, Myst III and Monkey Island.</text>
+  </text>
+ </view>
+</theme>

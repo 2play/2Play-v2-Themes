@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  8-BIT MICROCOMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text> A series of microcomputers designed/built by the Acorn Computer company for the BBC Computer Literacy Project. CPU 2MHz MOS Tech 6502/6512, Acorn MOS, RAM 16-128KB, Res. 640×256 8 colours, Release date 01 Dec '81.</text>
+  </text>
+ </view>
+</theme>

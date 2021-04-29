@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1989  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text> SuperGrafx or PC Engine SG, is a video game console by NEC Home Electronics, exclusively in Japan. Is backwards compatible with PC Engine. CPU Hudson Soft HuC6280. Release date JP: Dec 8, '89 FR: May '90.</text>
+  </text>
+ </view>
+</theme>

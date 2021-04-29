@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Arcadia 2001 is a second-generation 8-bit console released by Emerson Radio. CPU Signetics 2650 Memory 1KB RAM GP 128×208/128×104, 8 Clrs. Release date '82.</text>
+  </text>
+ </view>
+</theme>

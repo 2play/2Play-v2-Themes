@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>As SG-1000 was coming up against game consoles from Tomy and Bandai resulted in the release of the Sega Mark III in Japan in 1985, which later became the Master System worldwide. CPU Zilog Z80A @4MHz, 8kB RAM, 16kB VRAM, 256×192, 32 clrs, Graph Yamaha YM2602B VDP Sound Yamaha VDP PSG(SN76489), Yamaha YM2413. Released JP: '85.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu, sold in Japan and Spain. CPU 2x MBL 68B09 at 2MHz, 64KB RAM, 48KB VRAM, 48KB ROM. Release date Nov, '82.</text>
+  </text>
+ </view>
+</theme>

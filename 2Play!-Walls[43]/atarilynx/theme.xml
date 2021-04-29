@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1989  ·  16-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The world's first handheld electronic game with a color LCD. CPU WDC 65SC02, Display	160×102 std res. ROM cartridge. Release date 01 Sep '89.</text>
+  </text>
+ </view>
+</theme>

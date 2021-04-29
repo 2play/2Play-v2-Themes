@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1986  ·  8/16-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Olivetti Prodest PC 128 is the Thomson MO6 Italian version. CPU Motorola 6809E, 1MHz Memory 128KB. Release date '86.</text>
+  </text>
+ </view>
+</theme>

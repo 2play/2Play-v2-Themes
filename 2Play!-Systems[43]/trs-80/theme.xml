@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1977  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The TRS-80 is a desktop microcomputer. One of the earliest mass-produced/marketed retail PCs. CPU Zilog Z80 @1.774MHz Memory 4/48KB, OS TRSDOS, NewDos/80. Release date 03 Aug '77.</text>
+  </text>
+ </view>
+</theme>

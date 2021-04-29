@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1986  ·  16-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text> A home computer introduced by French company Thomson SA. CPU Motorola 6809E, 1MHz Memory 256KB (512KB max.) RAM 80KB ROM Release date '86.</text>
+  </text>
+ </view>
+</theme>

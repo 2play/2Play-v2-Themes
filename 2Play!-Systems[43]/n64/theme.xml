@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  64-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to GameCube. CPU 64-bit NEC VR4300 @93.75MHz, 4MB>8MB RDRAM, Graph SGI RCP @62.5MHz, Sound 16-bit, 48/44.1kHz St. Release date JP: 23 Jun '96 NA: 29 Sep '96 (Ofcl) EU/AU: 01 Mar '97.</text>
+  </text>
+ </view>
+</theme>

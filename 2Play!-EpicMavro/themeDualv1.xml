@@ -1,10 +1,10 @@
 <!--
-Theme name:  Epic Noir
-Artwork by:  Nico La Rosa (Chicuelo) 
-Coding by:   Nick L (c64-dev)
+Theme name:  2Play!-EpicMavro
+Original Artwork by:  Nico La Rosa (Chicuelo) 
+Original Coding by:   Nick L (c64-dev)
 Website:     www.chicuelo.com.ar
 Fonts used:  Acre Medium & Bebas Neue Bold
-Forked Theme & Updated Code by: 2Play! (S.R.)
+New Artwork & Updated Code by: 2Play! (S.R.)
 
 # Thanks and Credits
 Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
@@ -81,7 +81,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.021</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.05 0.1055</pos>
+        <pos>0.025 0.1055</pos>
         <size>0.320 0.033</size>
     </text>
 
@@ -92,7 +92,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.05 0.3611</pos>
+        <pos>0.025 0.3611</pos>
         <size>0.200 0.039</size>
         <fontSize>0.0315</fontSize>
     </text>
@@ -105,7 +105,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>8F8F8F</color>
  	<lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.05 0.360</pos>
+        <pos>0.025 0.360</pos>
         <size>0.28 0.25</size>
     </text>
 
@@ -113,7 +113,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<path>./_2playart/var/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.05 0.6</pos>
+        <pos>0.025 0.6</pos>
         <size>0 0.044</size>
     </image>
 
@@ -130,7 +130,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <path>./_2playart/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.05 0.61</pos>
+        <pos>0.025 0.61</pos>
         <maxSize>0.32 0.32</maxSize>
     </image>
 </view>
@@ -147,15 +147,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <textlist name="gamelist">
         <selectorColor>1c1c1c</selectorColor>
         <selectedColor>F8F8F8</selectedColor>
-        <selectorHeight>0.0425</selectorHeight>
+        <selectorHeight>0.031</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.3888</size>
-        <fontSize>0.0275</fontSize>
-        <lineSpacing>1.33</lineSpacing>
+        <fontSize>0.02</fontSize>
+        <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
     
@@ -187,8 +187,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.018</fontSize>
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <lineSpacing>1</lineSpacing>
-	    <pos>0.409 0.775</pos>
+        <pos>0.409 0.775</pos>
 	    <size>0.505 0.140</size>
     </text>
     
@@ -269,7 +268,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>   
 
     <text name="players_lbl_2" extra="true">
-        <text>players</text>
+        <text>player(s)</text>
         <pos>0.689 0.917</pos>
         <size>0.06 0.07</size>
     </text>       
@@ -328,12 +327,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <maxSize>0.5 0.6</maxSize>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
         </video>
-		<image name="md_image">
-			<tile>false</tile>
-			<origin>0.4 0.5</origin>
-			<pos>0.1328 0.7148</pos>
-			<maxSize>0.2812 0.3888</maxSize>
-		</image>
+	<image name="md_image">
+		<tile>false</tile>
+		<origin>0.4 0.5</origin>
+		<pos>0.1328 0.7148</pos>
+		<maxSize>0.2812 0.3888</maxSize>
+	</image>
     </view>
 </feature>
 

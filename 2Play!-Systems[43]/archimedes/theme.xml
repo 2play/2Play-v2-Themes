@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  32-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A family of personal computers designed by Acorn Computers Ltd in Cambridge UK. CPU ARM RAM 512kB–16MB, RISC OS or RISC iX, Release date 06 '87.</text>
+  </text>
+ </view>
+</theme>

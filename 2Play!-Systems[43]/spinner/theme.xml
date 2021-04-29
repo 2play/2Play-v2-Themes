@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  ARCADE CONTROLLER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A spinner was used in arcade cabinets such as Tempest and Arkanoid.</text>
+  </text>
+ </view>
+</theme>

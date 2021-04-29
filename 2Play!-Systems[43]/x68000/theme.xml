@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  16/32-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The X68000 is a home computer, sold only in Japan. HW was very similar to arcade machines of the time. CPU Motorola 68000 family, Sound Yamaha YM2151 OKI MSM6258, OS Human68k, NetBSD, OS-9. Release date Mar '87.</text>
+  </text>
+ </view>
+</theme>
