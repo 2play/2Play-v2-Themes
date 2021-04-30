@@ -1,10 +1,11 @@
 <!--
-Theme name:  Epic Noir 4:3 ratio version
-Artwork by:  Nico La Rosa (Chicuelo) 
-Coding by:   Nick L (c64-dev)
-Website:     www.chicuelo.com.ar
-Fonts used:  Acre Medium & Bebas Neue Bold
-Forked Theme & Updated Code by: 2Play! (S.R.)
+Theme name:						2Play!-EpicMavro-Systems-v2-WR[43] 4:3 Ratio version
+New Artwork & Updated Code by:	2Play! (S.R.)
+
+Original Artwork by:			Nico La Rosa (Chicuelo) 
+Original Coding by:				Nick L (c64-dev)
+Website:						www.chicuelo.com.ar
+Fonts used:						Acre Medium & Bebas Neue Bold
 
 # Thanks and Credits
 Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
@@ -187,8 +188,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.018</fontSize>
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <lineSpacing>1</lineSpacing>
-	    <pos>0.409 0.787</pos>
+        <pos>0.409 0.787</pos>
 	    <size>0.505 0.135</size>
     </text>
     

@@ -1,11 +1,11 @@
 <!--
-Theme name:  2Play!-EpicAspro
-New Artwork & Updated Code by: 2Play! (S.R.)
+Theme name:  					2Play!-EpicAspro
+New Artwork & Updated Code by:	2Play! (S.R.)
 
-Original Artwork by:  Nico La Rosa (Chicuelo) 
-Original Coding by:   Nick L (c64-dev)
-Website:     www.chicuelo.com.ar
-Fonts used:  Acre Medium & Bebas Neue Bold
+Original Artwork by:			Nico La Rosa (Chicuelo) 
+Original Coding by:				Nick L (c64-dev)
+Website:						www.chicuelo.com.ar
+Fonts used:						Acre Medium & Bebas Neue Bold
 
 # Thanks and Credits
 Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
@@ -155,8 +155,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
-        <fontSize>0.0275</fontSize>
-        <lineSpacing>1.33</lineSpacing>
+        <fontSize>0.02</fontSize>
+        <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
     
