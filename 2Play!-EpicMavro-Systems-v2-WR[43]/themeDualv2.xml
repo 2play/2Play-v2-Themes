@@ -31,7 +31,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
-        <size>0.75 1</size>
+        <size>0.85 1</size>
     </image>
 <!--    
     <image name="indicator_bg" extra="true">
