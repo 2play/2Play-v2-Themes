@@ -89,7 +89,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="systemInfo">
         <fontPath>./_2playart/Acre.otf</fontPath>
         <alignment>left</alignment>
-        <backgroundColor>FFFFFFFF</backgroundColor>
+        <!--<backgroundColor>FFFFFFFF</backgroundColor>-->
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>

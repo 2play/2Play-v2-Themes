@@ -52,7 +52,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
     <carousel name="systemcarousel">
         <type>horizontal</type>
-        <color>FFFFFFFF</color>
+        <color>00000000</color>
         <origin>1 1</origin>
         <pos>1 1</pos>
         <size>0.01 0.01</size>
