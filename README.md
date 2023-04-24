@@ -1,4 +1,4 @@
-# 2Play-v2-Themes
+# 2Play-v2-Themes For Pi0 and LCD small screens
 All my new themes from PlayBox v2. Just get the folder as is (name sensitive if used on PlayBox v2)
 
 You can check here:
