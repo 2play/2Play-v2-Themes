@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  16-BIT ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CD-ROM add-on to the Megadrive, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB. CPU Motorola 68000 @12.5MHz, 64kbit int. RAM, Sound Ricoh RF5C164, Release date JP: 12 Dec '91 NA: 15 Oct '92 UK: 2 Apr '93 EU: '93.</text>
+  </text>
+ </view>
+</theme>

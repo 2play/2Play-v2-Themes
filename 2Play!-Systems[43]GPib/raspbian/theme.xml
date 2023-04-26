@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2012  ·  SOFTWARE OS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>RASPi OS is a Debian-based computer OS for Raspberry Pi. Uses RPD desktop a fork of LXDE. Initial Release 27 Sep '13.</text>
+  </text>
+ </view>
+</theme>

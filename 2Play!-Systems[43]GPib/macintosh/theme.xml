@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Macintosh 128K, was the original Apple Macintosh personal computer. CPU Motorola 68000 @7.8336MHz (6MHz effect.), 128KB RAM, OS System Software 1.0. Release date 24 Jan '84.</text>
+  </text>
+ </view>
+</theme>

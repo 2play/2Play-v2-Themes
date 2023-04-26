@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1998  ·  8-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Features a color screen. CPU Sharp LR35902 core @4.19/8.38MHz Display LCD 160x144px. Release date JP: 21 Oct '98 NA: 18 Nov '98 PAL: 23 Nov '98 AU: 27 Nov '98.</text>
+  </text>
+ </view>
+</theme>

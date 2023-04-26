@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A simulation video game describes a diverse super-category of video games, generally designed to closely simulate real world activities.A simulation game attempts to copy various activities from real life in the form of a game for various purposes such as training, analysis, or prediction.</text>
+  </text>
+ </view>
+</theme>

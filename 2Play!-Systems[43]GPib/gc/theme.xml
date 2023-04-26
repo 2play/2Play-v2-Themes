@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the N64. The first Nintendo console to use optical discs. CPU IBM PowerPC 750CXe Gekko @486MHz, mem card 16MB max, GPU ATI Flipper @162MHz, Sound Analog stereo (Dolby Pro Logic II). Release date JP: 14 Sep '01 NA: 18 Nov '01 EU: 03 May '02 AU: 17 May '02.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1999  ·  GAME ENGINE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>GameMaker Studio (formerly Animo until 1999, Game Maker until 2011, GameMaker until 2012, and GameMaker: Studio until 2017) is a cross-platform game engine developed by YoYo Games.</text>
+  </text>
+ </view>
+</theme>

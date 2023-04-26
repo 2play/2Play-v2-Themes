@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers by Microsoft and ASCII. CPU Zilog Z80, 8-512 KB, Release date '83.</text>
+  </text>
+ </view>
+</theme>

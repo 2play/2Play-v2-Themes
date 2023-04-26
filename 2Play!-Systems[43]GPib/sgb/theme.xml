@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  CONSOLE ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Super Game Boy is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console. Release date Jun '94.</text>
+  </text>
+ </view>
+</theme>
