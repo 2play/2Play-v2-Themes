@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Newly added games. The recent additions will be displayed here. A R.P.E. R.D. Release Collection Theme Support.</text>
+  </text>
+ </view>
+</theme>
