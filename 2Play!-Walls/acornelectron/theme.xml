@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-BIT MICROCOMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A budget version of the BBC Micro educational/home computer. CPU MOS Tech. 6502A @2MHz accessing ROM & @1MHz/0.5897MHz accessing RAM OS Acorn MOS v1.0, RAM 32kB RAM, 32kBROM, Release date 25 Aug '83.</text>
+  </text>
+ </view>
+</theme>
