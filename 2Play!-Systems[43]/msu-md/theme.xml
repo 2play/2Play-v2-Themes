@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2020  ·  CD QUALITY DRIVER MD+/32X+</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega Genesis/Mega Drive games that add CD quality audio by using krikzz’ MSU-MD driver. Release date 2020.</text>
+  </text>
+ </view>
+</theme>

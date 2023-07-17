@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega MSU-MD CD driver MD+/32X+</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Krikzz</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>MSU-MD DRIVER</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2020  ·  CD QUALITY DRIVER MD+/32X+</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega Genesis/Mega Drive games that add CD quality audio by using krikzz’ MSU-MD driver. Release date 2020.</text>
+  </text>
+ </view>
+</theme>
