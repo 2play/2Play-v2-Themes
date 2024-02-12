@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1986  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Some people consider the +2 Grey the last ‘real’ ZX Spectrum (+2A and +2B had compatibility issues). CPU Z80 @3.5 MHz Memory 128KB + 32KB ROM, OS Sinclair BASIC. Release date '86.</text>
+  </text>
+ </view>
+</theme>

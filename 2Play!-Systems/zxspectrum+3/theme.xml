@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Spectrum +3 was similar to +2 but with a disk drive instead the tape drive. CPU Z80 @3.5 MHz Memory 128KB & 64KB ROM, OS Sinclair BASIC. Release date '87.</text>
+  </text>
+ </view>
+</theme>

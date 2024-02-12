@@ -1,0 +1,14 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>HOMEBREW ARCADE ROMS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>HBMAME stands for Home Brew MAME. It runs on Windows 7 SP1 or later.
+HBMAME has 2 purposes: Firstly is to preserve homebrew games written for arcade machines or arcade emulators. Secondly is to include worthwhile hacks of arcade games. All the documentation of the hardware can be found in the MAME source.</text>
+  </text>
+ </view>
+</theme>

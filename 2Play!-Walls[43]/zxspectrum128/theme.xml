@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>ZX Spectrum 128 (code-named Derby) developed in conjunction with Sinclair Spanish distributor Investrónica (a subsidiary of El Corte Inglés department store group). CPU Z80 @3.5 MHz Memory 128KB & 32KB ROM, OS Sinclair BASIC. Release date '85.</text>
+  </text>
+ </view>
+</theme>
