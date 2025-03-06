@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1980  ·  8-BIT COMPUTER</text>
+   <text>1982  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Dragon 32/64 were home computers similar to the TRS-80 Color Computer. CPU Motorola 6809E @0.89 MHz, 32KB/64KB RAM. Release date Aug, '82.</text>

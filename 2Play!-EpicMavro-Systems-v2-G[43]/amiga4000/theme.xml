@@ -24,10 +24,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1985  ·  32-BIT COMPUTER</text>
+   <text>1992  ·  32-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Amiga 4000 introduced the Advanced Graphics Architecture (AGA) chipset with enhanced graphics. CPU Motorola 68040 @25MHz, 2-18MB RAM, Amiga OS, 16.8M colors, 4×8-BIT PCM channels. 1.76MB HD fdd & 120MB 3.5" IDE HD. Release date '92.</text>
+   <text>Amiga 4000 introduced the Advanced Graphics Architecture (AGA) chipset with enhanced graphics. CPU Motorola 68040 @25MHz, 2-18MB RAM, Amiga OS, 16.8M colors, 4×8-BIT PCM channels. 1.76MB HD fdd & 120MB 3.5" IDE HD. Release date 21 Oct '92.</text>
   </text>
  </view>
 </theme>

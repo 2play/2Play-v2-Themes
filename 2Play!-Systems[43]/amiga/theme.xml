@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16/32-BIT COMPUTER</text>
+   <text>1987  ·  16/32-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
    <text>CPU Motorola 680x0 ≈@7+ MHz, 256KB-9MB RAM, mouse-based GUIs, 4096 colors, 4×8-bit channels PCM audio. Media: 880 KB floppy disks. Release date NL: Apr '87 NA: Oct '87.</text>

@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-BIT COMPUTER</text>
+   <text>1982  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Oric was a series of home computers originally released by the Tangerine Computer Systems. CPU 6502A @1MHz, 16KB/48KB. Release date UK: 01 Sep '82.</text>
