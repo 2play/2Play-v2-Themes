@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Announced in 1983, but was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers. CPU Zilog Z80A @4MHz, Memory 64/128KB-4MB. Release date 23 Jun '85.</text>
+  </text>
+ </view>
+</theme>
