@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Pokemon Mini</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Pokemon Mini</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  8-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CPU 8-bit, 4 MHz Seiko (now Epson) S1C88, 96x64 pixel monochrome LCD, 1 AAA battery, up to 60 hours, BIOS 4KB, RAM 4KB. Release date NA: 16 Nov '01 JP: 14 Dec '01 EU: 15 Mar '02.</text>
+  </text>
+ </view>
+</theme>

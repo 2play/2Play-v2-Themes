@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Atari ST</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Atari, Inc</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Atari ST</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  16-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari ST is the successor to the Atari 8-BIT family. CPU Motorola 680x0 @8MHz+ Memory 512KiBs (512×210 bytes) to 4MiB (4×220 bytes). Release date Jun '85.</text>
+  </text>
+ </view>
+</theme>

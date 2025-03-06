@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Neo Geo CD</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>SNK Corporation</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Neo Geo CD</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  16/32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text> Is the second home video game console of SNK Corporation's Neo Geo family. The Neo Geo CDZ, an upgraded, faster-loading version, released in Japan only. CPU Mot 68000 @12MHZ.</text>
+  </text>
+ </view>
+</theme>

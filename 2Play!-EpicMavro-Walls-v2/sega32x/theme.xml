@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega 32x</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Sega 32X</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Add-on to expand the power of the Genesis until the release of the Sega Saturn. CPU 2× SH-2 32-bit RISC @23MHz Memory 256KB RAM, 256KB VRAM. Release date NA: 21 Nov '94 JP: 03 Dec '94 EU: Jan '95.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Jukebox</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Jukebox</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.130</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1940  ·  COIN OPERATED MUSIC BOX</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The term jukebox came into use in the US beg in 1940, derived from the Gullah word "juke" or "joog" meaning disorderly, rowdy, or wicked. Notable models: '46 Wurlitzer Model 1015, '52 Seeburg M100C, '67 Rock-Ola 434 Concerto.</text>
+  </text>
+ </view>
+</theme>

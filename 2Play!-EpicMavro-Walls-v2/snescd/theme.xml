@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>SNES MSU-1 ADDON CHIP</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Byuu</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>MSU-1 CHIP</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2010  ·  CONSOLE ADDON CHIP</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The MSU-1 chip is a SNES enhancement chip created by Higan emulator creator byuu et al. MSU stands for "Media Streaming Unit 1". MSU-1 is a play on the GSU-1 "Graphics Support Unit 1" chip, a version of the Super FX chip. Offers 4GB data storage in a single stream for full-motion video & CD-quality sound.</text>
+  </text>
+ </view>
+</theme>

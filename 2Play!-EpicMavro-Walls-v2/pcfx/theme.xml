@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>PC-FX</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC Corporation</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>PC-FX</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The PC-FX was released just weeks after Sony's PlayStation and a month after the Sega Saturn. It is the successor to the PC Engine. CPU NEC V810 Release date JP: 23 Dec '94.</text>
+  </text>
+ </view>
+</theme>

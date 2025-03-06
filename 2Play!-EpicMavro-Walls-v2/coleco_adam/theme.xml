@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Coleco Adam</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Coleco Industries, Inc.</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Coleco Adam</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-BIT COMPUTER/ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text> The Coleco Adam is a home computer, and expansion for the ColecoVision (port 3), released in 1983 by American toy and video game manufacturer Coleco. CPU	Zilog Z80A @3.58MHz. Release date Oct '83.</text>
+  </text>
+ </view>
+</theme>

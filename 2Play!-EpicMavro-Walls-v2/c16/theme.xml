@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>COMMODORE 16</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Commodore International</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>C16</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore 16 is a home computer made by Commodore International with a 6502-compatible 7501 or 8501 CPU, released in 1984 and intended to be an entry-level computer to replace the VIC-20. CPU MOS Technology 7501/8501 @0.89/1.76MHz, 16KB RAM + 32KB ROM, Graph TED (320×200, 121 colors), Sound TED 2ch. Release date '84.</text>
+  </text>
+ </view>
+</theme>

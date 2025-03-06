@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Nintendo 64</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>N64</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  64-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to GameCube. CPU 64-bit NEC VR4300 @93.75MHz, 4MB>8MB RDRAM, Graph SGI RCP @62.5MHz, Sound 16-bit, 48/44.1kHz St. Release date JP: 23 Jun '96 NA: 29 Sep '96 (Ofcl) EU/AU: 01 Mar '97.</text>
+  </text>
+ </view>
+</theme>

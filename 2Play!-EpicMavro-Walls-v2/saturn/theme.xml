@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega Saturn</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Saturn</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the successful Sega Genesis. CPU 2× Hitachi SH-2 @28.6MHz Graph VDP1/VDP2, Sound	Yamaha YMF292. Release date JP: 22 Nov '94 NA: 11 May '95 EU: 18 Jul '95.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>TurboGrafx-CD</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC Home Electronics</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>TurboGrafx-CD</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  CONSOLE ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>An add-on attachment for the TurboGrafx-16. It allows the core console to play games in CD-ROM format in addition to the HuCards. Release date JP: 04 Dec '88.</text>
+  </text>
+ </view>
+</theme>

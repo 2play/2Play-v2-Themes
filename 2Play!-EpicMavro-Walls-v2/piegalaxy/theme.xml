@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>GOG Sp. z o.o.</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>GOG Sp. z o.o.</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Pie Galaxy</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2008  ·  DIGITAL PLATFORM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Pie Galaxy is a GOG (formerly Good Old Games) client. GOG is a digital distribution platform for video games and films. It is operated by GOG Sp. z o.o., a wholly owned subsidiary of CD Projekt based in Warsaw, Poland. Founded '08.</text>
+  </text>
+ </view>
+</theme>

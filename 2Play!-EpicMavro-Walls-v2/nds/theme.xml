@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Nintendo DS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>NDS</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2004  ·  32-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The NDS is a dual-screen handheld game console. CPU 2x ARM, 4MB RAM, 256KB Fl-RAM, 2x TFT LCD, 256×192. Release date NA: 21 Nov '04 JP: 02 Dec '04 AU: 24 Feb '05 EU: 11 Mar '05.</text>
+  </text>
+ </view>
+</theme>

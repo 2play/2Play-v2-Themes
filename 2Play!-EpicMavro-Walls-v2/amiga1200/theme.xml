@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Amiga 1200</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Commodore International</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Amiga 1200</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  24-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amiga 1200, or A1200 (code-named "Channel Z"), is a personal computer in the Amiga computer family released by Commodore International. CPU Motorola 68EC020  @12.5-33MHz, 2-8MB RAM, Amiga OS, 16.8M colors, 4×8-BIT PCM channels, 3.5" 880KB Floppy. Release date 21 Oct '92.</text>
+  </text>
+ </view>
+</theme>

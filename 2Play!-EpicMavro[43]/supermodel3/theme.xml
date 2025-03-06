@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Sega Model 3</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Sega</text>
+    <fontSize>0.040</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Model 3</text>
+    <fontSize>0.15</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  32-BIT ARCADE BOARD</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Model 3 system was the culmination of the collaboration with Lockheed Martin. It had three main PCBs (CPU/Video/ROM). Had 4 versions (1.0,1.5 '96,2.0 '97,2.1 '98). CPU: IBM PowerPC 603 @66/100/166MHz, 8MB RAM, Video: Lockheed Martin Real3D/Pro-1000, Sound:  Motorola 68EC000, Release date '96.</text>
+  </text>
+ </view>
+</theme>

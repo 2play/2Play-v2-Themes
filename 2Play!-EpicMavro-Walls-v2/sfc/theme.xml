@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Super Famicom</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Super Famicom</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to Famicom. CPU Ricoh 5A22 @3.58MHz, Nintendo S-SMP. Release date JP: 21 Nov '90 KOR: 25 Nov '90 NA: 23 Aug '91 UK: 11 Apr '92 IRL: 10 Apr '92 EU: Jun '92 AU: 03 Jul '92 BR: Sep '92.</text>
+  </text>
+ </view>
+</theme>

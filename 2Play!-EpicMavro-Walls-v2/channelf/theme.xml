@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Fairchild Channel F</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Fairchild Semiconductor</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Channel F</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1976  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Fairchild Channel F is a home video game console released by Fairchild Semiconductor. CPU Fairchild F8. Release date NA: Nov '76 JP: Oct '77.</text>
+  </text>
+ </view>
+</theme>

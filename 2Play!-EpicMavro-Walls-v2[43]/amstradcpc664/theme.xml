@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Amstrad CPC 664</text>
+  </text>
+</view>    
+
+<view name="system">
+<text name="sys_line1" extra="true">
+    <text>Amstrad</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>CPC 664</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Amstrad CPC (short for Colour Personal Computer).After the successful release of the CPC 464, consumers were constantly asking for two improvements: more memory and an internal disk drive. Produced only for 6 months. CPU Zilog Z80 @4MHz Memory 64K. Release date Spring '85.</text>
+  </text>
+ </view>
+</theme>

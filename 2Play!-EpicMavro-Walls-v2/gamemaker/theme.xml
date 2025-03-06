@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>GameMaker Studio</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Mark Overmars, YoYo Games</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>GameMaker</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1999  ·  GAME ENGINE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>GameMaker Studio (formerly Animo until 1999, Game Maker until 2011, GameMaker until 2012, and GameMaker: Studio until 2017) is a cross-platform game engine developed by YoYo Games.</text>
+  </text>
+ </view>
+</theme>

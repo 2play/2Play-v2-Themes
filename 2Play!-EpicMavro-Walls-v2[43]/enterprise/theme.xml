@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Enterprise 64/128</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Intelligent Software</text>
+    <fontSize>0.040</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Enterprise 128</text>
+    <fontSize>0.15</fontSize>
+    <origin>0 0</origin>
+    <pos>0.025 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Announced in 1983, but was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers. CPU Zilog Z80A @4MHz, Memory 64/128KB-4MB. Release date 23 Jun '85.</text>
+  </text>
+ </view>
+</theme>
